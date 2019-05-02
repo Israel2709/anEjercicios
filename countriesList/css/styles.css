@@ -1,0 +1,41 @@
+.principal {
+    background-color: white;
+    box-shadow: 1px 1px 8px grey;
+    margin: 10%;
+    padding: 2%;
+}
+
+.title {
+    padding-bottom: 2%;
+    border-bottom: lightgrey 1px dotted;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+.title h2 {
+    font-family: sans-serif;
+    color: cornflowerblue;
+}
+
+.content {
+    padding-left: 2%;
+    align-items: center;
+}
+
+.content h6 {
+    margin-right: 4%;
+    color: grey;
+}
+
+.country-select {
+    border: none;
+    border-radius: 2px;
+    box-shadow: 1px 1px 5px grey;
+    padding: 1%;
+    background-color: cornflowerblue;
+    color: white; 
+    margin-right: 4%;
+}
+.detail-country {
+    width: 50%;
+}
